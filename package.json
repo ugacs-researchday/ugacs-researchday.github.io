@@ -1,13 +1,13 @@
 {
-  "name": "particle",
+  "name": "ugacs-researchday",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nathan Randecker",
-  "license": "ISC",
+  "author": "Brad Bazemore",
+  "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.18.6",
